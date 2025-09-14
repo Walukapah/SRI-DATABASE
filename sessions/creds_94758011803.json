@@ -48,10 +48,19 @@
   },
   "registrationId": 202,
   "advSecretKey": "xa7gRYRiYHsFsEiFXIDaE2VzjRBpyJXhbHZ3tt/V3Zo=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94758011803@s.whatsapp.net",
+        "fromMe": true,
+        "id": "7EB235DBCDD51D5220982C893E2AB1D5"
+      },
+      "messageTimestamp": 1757849764
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +79,8 @@
   "pairingCode": "ABCD1234",
   "me": {
     "id": "94758011803:3@s.whatsapp.net",
-    "lid": "115934689767526:3@lid"
+    "lid": "115934689767526:3@lid",
+    "name": "hemanthaupulkumara1971"
   },
   "account": {
     "details": "COHDs3cQmdGaxgYYAiAAKAA=",
