@@ -69,7 +69,8 @@
   "registration": {},
   "pairingCode": "ABCD1234",
   "me": {
-    "id": "94753670175:56@s.whatsapp.net"
+    "id": "94753670175:56@s.whatsapp.net",
+    "lid": "132658738782342:56@lid"
   },
   "account": {
     "details": "CPHokrsDELukmcYGGAkgACgA",
@@ -94,5 +95,6 @@
     "type": "Buffer",
     "data": "CAgIBQ=="
   },
-  "lastAccountSyncTimestamp": 1757827652
+  "lastAccountSyncTimestamp": 1757827652,
+  "myAppStateKeyId": "AAAAAGE7"
 }
