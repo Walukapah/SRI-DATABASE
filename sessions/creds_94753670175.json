@@ -49,8 +49,8 @@
   "registrationId": 34,
   "advSecretKey": "SYkXuAnLtZS2sOtKFJAC3cUv/H2AwmbvnRnzatxuQGY=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -69,7 +69,8 @@
   "registration": {},
   "pairingCode": "ABCD1234",
   "me": {
-    "id": "94753670175:59@s.whatsapp.net"
+    "id": "94753670175:59@s.whatsapp.net",
+    "lid": "132658738782342:59@lid"
   },
   "account": {
     "details": "CPLokrsDEMb5msYGGAEgACgA",
