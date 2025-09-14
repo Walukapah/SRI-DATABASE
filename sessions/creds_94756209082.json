@@ -90,5 +90,10 @@
       }
     }
   ],
-  "platform": "smba"
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAUIAg=="
+  },
+  "lastAccountSyncTimestamp": 1757855564
 }
