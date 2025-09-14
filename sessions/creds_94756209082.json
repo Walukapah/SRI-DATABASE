@@ -70,7 +70,8 @@
   "pairingCode": "ABCD1234",
   "me": {
     "id": "94756209082:43@s.whatsapp.net",
-    "name": "SRI BOT"
+    "name": "SRI BOT",
+    "lid": "197612032549107:43@lid"
   },
   "account": {
     "details": "CP/Hn6AFEML+msYGGBQgACgA",
@@ -95,5 +96,6 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1757855564
+  "lastAccountSyncTimestamp": 1757855564,
+  "myAppStateKeyId": "AAAAAIiY"
 }
