@@ -47,7 +47,7 @@
     "keyId": 1
   },
   "registrationId": 5,
-  "advSecretKey": "6IbUnPWxIyGJxaTVlQ0aoYovdTUXyve4khSNvmh4sR4=",
+  "advSecretKey": "t8P3vv2npl/Syj4tNACv+iAUTaTqmFzfF3gR1QTGkL4=",
   "processedHistoryMessages": [],
   "nextPreKeyId": 1,
   "firstUnuploadedPreKeyId": 1,
@@ -61,7 +61,7 @@
     "type": "Buffer",
     "data": "T4iHbi3oVpfpxfCwSWnCtwEkz0U="
   },
-  "registered": false,
+  "registered": true,
   "backupToken": {
     "type": "Buffer",
     "data": "WlaAnl/SsRmlAyPDjIaQSdIDsXw="
