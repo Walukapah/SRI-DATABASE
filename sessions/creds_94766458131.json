@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "SUK1CH4N",
   "me": {
-    "id": "94766458131@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94766458131:2@s.whatsapp.net",
+    "name": "nushan  hansaka {±}",
+    "lid": "230120472211677:2@lid"
+  },
+  "account": {
+    "details": "CJmz+NgHEPq/1cYGGAEgACgA",
+    "accountSignatureKey": "2MWU/Bce1Pzg8krSutFd6a5PpfBHfK/JvNihS2dUMRw=",
+    "accountSignature": "01TRBcrutY3vxHpxAbFRtrVfjBtwRl949+KBE0SvHUbJc2Nu3Z5FpN7h1KQhnGqq4z3gn8a9czncMbuJKcKRAQ==",
+    "deviceSignature": "JLYfGJo3GXX9JwwNM044wpRgNGAN0wZMVfPjWABG6DB7GTbroTAdYM36GjBFKGrTfZ88TLkmr3Kc5SPVjjtmjw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "230120472211677:2@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BdjFlPwXHtT84PJK0rrRXemuT6XwR3yvybzYoUtnVDEc"
+      }
+    }
+  ],
+  "platform": "smba"
 }
