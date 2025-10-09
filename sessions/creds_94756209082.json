@@ -82,8 +82,8 @@
       "messageTimestamp": 1757855816
     }
   ],
-  "nextPreKeyId": 13049,
-  "firstUnuploadedPreKeyId": 13049,
+  "nextPreKeyId": 13050,
+  "firstUnuploadedPreKeyId": 13050,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
