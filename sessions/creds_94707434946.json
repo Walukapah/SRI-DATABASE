@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "ELAINAMD",
   "me": {
-    "id": "94707434946@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94707434946:1@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CJ3ut78FEKvzzccGGAEgACgA",
+    "accountSignatureKey": "aQO8HKyZaEQ/lotlstHSWEWWhQvolZGZD4OyNsxCfEE=",
+    "accountSignature": "nNyiT4dU4BP0SYOcn/PIH60CBN+pqQ/YTAzLZolbs+jixcW2Y23pR8QUqjbKQ5NsLrOJ/eVDx/k9JNgUCreXAA==",
+    "deviceSignature": "4Hm10qps7+7DYXEfFILwVQ//MnIYsTrUDqnraELO+zwfmDKqykelCkV6yZJ0Ypq8z3qyS1EyHpQkW40dhvbTiQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94707434946:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BWkDvBysmWhEP5aLZbLR0lhFloUL6JWRmQ+DsjbMQnxB"
+      }
+    }
+  ],
+  "platform": "android"
 }
