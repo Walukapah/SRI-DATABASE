@@ -104,8 +104,8 @@
   "accountSettings": {
     "unarchiveChats": false,
     "defaultDisappearingMode": {
-      "ephemeralExpiration": 604800,
-      "ephemeralSettingTimestamp": 1761135703
+      "ephemeralExpiration": 0,
+      "ephemeralSettingTimestamp": 1761135729
     }
   },
   "registered": true,
