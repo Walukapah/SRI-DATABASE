@@ -102,7 +102,11 @@
   "firstUnuploadedPreKeyId": 604,
   "accountSyncCounter": 1,
   "accountSettings": {
-    "unarchiveChats": false
+    "unarchiveChats": false,
+    "defaultDisappearingMode": {
+      "ephemeralExpiration": 0,
+      "ephemeralSettingTimestamp": 1761133766
+    }
   },
   "registered": true,
   "pairingCode": "ELAINAMD",
