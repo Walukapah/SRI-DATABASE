@@ -49,8 +49,8 @@
   "registrationId": 198,
   "advSecretKey": "eGfmvyIn4M+IzWmGo94LBbr5UxLkCajVUeLMEzgIqLc=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "ELAINAMD",
   "me": {
     "id": "94756209082:64@s.whatsapp.net",
-    "name": "SRI BOT"
+    "name": "SRI BOT",
+    "lid": "197612032549107:64@lid"
   },
   "account": {
     "details": "CP/Hn6AFEKe/7MgGGCkgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CAUIEggC"
   },
-  "lastAccountSyncTimestamp": 1763385266
+  "lastAccountSyncTimestamp": 1763385266,
+  "lastPropHash": "PWk5B"
 }
