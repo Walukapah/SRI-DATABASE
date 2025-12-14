@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "ELAINAMD",
   "me": {
-    "id": "94756209082@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94756209082:67@s.whatsapp.net",
+    "name": "SRI BOT"
+  },
+  "account": {
+    "details": "CIDIn6AFEOj998kGGAEgACgA",
+    "accountSignatureKey": "JRoLvdm+9XiDHyeOK7awB+3mfoyFlwvMoYLcHKxLAzs=",
+    "accountSignature": "x3IWRgMo8DwJHUR/AlUfqUkUerBwmjn8MiodWa0M273/AMI/edLO2x4bdRFMmZ+f1Qt2VO378q3obEmCzfgADw==",
+    "deviceSignature": "0vh4dD8KlPDJOCrJlNkcZeIeiJepT0g/qq46x10VYL2Brolo03LJVsbycd3cNS4wbk0XpWuHI/sVESx+6ONuAA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94756209082:67@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BSUaC73ZvvV4gx8njiu2sAft5n6MhZcLzKGC3BysSwM7"
+      }
+    }
+  ],
+  "platform": "smba"
 }
