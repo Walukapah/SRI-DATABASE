@@ -47,7 +47,7 @@
     "keyId": 1
   },
   "registrationId": 68,
-  "advSecretKey": "cVqjLeY2yIF1t5mh5YZ5Y7+94uOq0bCDsC0UDrAWvk4=",
+  "advSecretKey": "1pcCKBpTN83lUtojQ8RLbgX6uhQh12/mE2gWnDjPweg=",
   "processedHistoryMessages": [],
   "nextPreKeyId": 1,
   "firstUnuploadedPreKeyId": 1,
@@ -55,7 +55,7 @@
   "accountSettings": {
     "unarchiveChats": false
   },
-  "registered": false,
+  "registered": true,
   "pairingCode": "ELAINAMD",
   "me": {
     "id": "94756209082@s.whatsapp.net",
