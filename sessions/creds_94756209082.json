@@ -59,7 +59,8 @@
   "pairingCode": "ELAINAMD",
   "me": {
     "id": "94756209082:71@s.whatsapp.net",
-    "name": "SRI BOT"
+    "name": "SRI BOT",
+    "lid": "197612032549107:71@lid"
   },
   "account": {
     "details": "CILIn6AFEK/npssGGAIgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAsIEggC"
   },
-  "lastAccountSyncTimestamp": 1768534969
+  "lastAccountSyncTimestamp": 1768534969,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAFon"
 }
