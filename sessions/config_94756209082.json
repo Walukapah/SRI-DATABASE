@@ -1,4 +1,5 @@
 {
+  "SESSION_ID": "",
   "PREFIX": ".",
   "BOT_NAME": "pakaya",
   "BOT_INFO": "SRI-BOT🇱🇰;WALUKA👊;https://i.imgur.com/r3GZeiX.jpeg",
@@ -19,5 +20,6 @@
   "MEDIA_URL": "https://whatsapp.com/channel/0029VaAPzWX0G0XdhMbtRI2i",
   "AUTO_RECORDING": "false",
   "ANTI_DELETE": "true",
-  "READ_MESSAGE": "true"
+  "READ_MESSAGE": "true",
+  "DELETEMSGSENDTO": ""
 }
