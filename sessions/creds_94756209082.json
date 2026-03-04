@@ -58,6 +58,16 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1772595382
+    },
+    {
+      "key": {
+        "remoteJid": "94756209082@s.whatsapp.net",
+        "fromMe": false,
+        "id": "A594C55C6F3D73EC557F1F9A937B2CE0",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1772595382
     }
   ],
   "nextPreKeyId": 813,
@@ -97,5 +107,6 @@
     "data": "CAsIEggC"
   },
   "lastAccountSyncTimestamp": 1772595380,
-  "lastPropHash": "PWk5B"
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAOFy"
 }
