@@ -47,7 +47,7 @@
     "keyId": 1
   },
   "registrationId": 148,
-  "advSecretKey": "g7xjrq80ppxqwLfmH1zGuV4qMv8xrWRdYz4NsrxxcgU=",
+  "advSecretKey": "8jVZCh7hlBdMq8J9QPw85uqKzJG4z4CrBnQH/gifiZA=",
   "processedHistoryMessages": [],
   "nextPreKeyId": 1,
   "firstUnuploadedPreKeyId": 1,
@@ -55,7 +55,7 @@
   "accountSettings": {
     "unarchiveChats": false
   },
-  "registered": false,
+  "registered": true,
   "pairingCode": "978VG46P",
   "me": {
     "id": "94756209082@s.whatsapp.net",
