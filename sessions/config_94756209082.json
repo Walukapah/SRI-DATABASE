@@ -1,0 +1,23 @@
+{
+  "PREFIX": ".",
+  "BOT_NAME": "TEST💗",
+  "BOT_INFO": "SRI-BOT🇱🇰;WALUKA👊;https://i.imgur.com/r3GZeiX.jpeg",
+  "OWNER_NUMBER": [
+    "94728115797"
+  ],
+  "ALIVE_IMG": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "ALIVE_MSG": "iyoo whats up 💫",
+  "MENU_IMG_URL": "https://images.weserv.nl/?url=i.imgur.com/W2CaVZW.jpeg",
+  "MENU_TYPE": "big",
+  "MENU_FONT": "tiny",
+  "AUTO_READ_STATUS": "true",
+  "AUTO_REACT_STATUS": "true",
+  "AUTO_REACT_STATUS_EMOJI": "❤️",
+  "NEWS_LETTER": "120363165918432989@newsletter",
+  "MODE": "public",
+  "VERSION": "1.0.0",
+  "MEDIA_URL": "https://whatsapp.com/channel/0029VaAPzWX0G0XdhMbtRI2i",
+  "AUTO_RECORDING": "false",
+  "ANTI_DELETE": "true",
+  "READ_MESSAGE": "true"
+}
