@@ -18,6 +18,6 @@
   "VERSION": "1.0.0",
   "MEDIA_URL": "https://whatsapp.com/channel/0029VaAPzWX0G0XdhMbtRI2i",
   "AUTO_RECORDING": "false",
-  "ANTI_DELETE": true,
+  "ANTI_DELETE": false,
   "READ_MESSAGE": "true"
 }
