@@ -1,0 +1,21 @@
+{
+  "PREFIX": ".",
+  "BOT_NAME": "SRI-BOT 🇱🇰",
+  "BOT_INFO": "SRI-BOT🇱🇰;WALUKA👊;https://i.imgur.com/r3GZeiX.jpeg",
+  "OWNER_NUMBER": [
+    "94753670175"
+  ],
+  "ALIVE_IMG": "https://i.ibb.co/YT2TN2vr/Picsart-25-06-07-13-04-26-190.jpg",
+  "ALIVE_MSG": "iyoo whats up 💫",
+  "MENU_IMG_URL": "https://i.ibb.co/39ZGzmvy/3f3f9ebb848e.png",
+  "AUTO_READ_STATUS": "true",
+  "AUTO_REACT_STATUS": "true",
+  "AUTO_REACT_STATUS_EMOJI": "🌼",
+  "NEWS_LETTER": "120363165918432989@newsletter",
+  "MODE": "public",
+  "VERSION": "1.0.0",
+  "MEDIA_URL": "https://whatsapp.com/channel/0029VaAPzWX0G0XdhMbtRI2i",
+  "AUTO_RECORDING": "false",
+  "ANTI_DELETE": "true",
+  "READ_MESSAGE": "true"
+}
