@@ -90,8 +90,8 @@
       "messageTimestamp": 1772595385
     }
   ],
-  "nextPreKeyId": 19205,
-  "firstUnuploadedPreKeyId": 19205,
+  "nextPreKeyId": 19235,
+  "firstUnuploadedPreKeyId": 19235,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -124,7 +124,7 @@
   "platform": "smba",
   "routingInfo": {
     "type": "Buffer",
-    "data": "CAUIEggC"
+    "data": "CAsIEggC"
   },
   "lastAccountSyncTimestamp": 1773156004,
   "lastPropHash": "PWk5B",
