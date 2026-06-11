@@ -18,5 +18,5 @@
   "AUTO_RECORDING": "false",
   "ANTI_DELETE": "true",
   "READ_MESSAGE": "true",
-  "MESSAGE_TYPE": "button"
+  "MESSAGE_TYPE": "text"
 }
